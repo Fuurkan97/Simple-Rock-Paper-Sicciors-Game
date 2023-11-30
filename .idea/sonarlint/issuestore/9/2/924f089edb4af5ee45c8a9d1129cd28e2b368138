@@ -1,0 +1,22 @@
+
+n
+java:S1192"LDefine a constant instead of duplicating this literal "Player wins" 3 times.(ÕŒÁ†ùÿÿÿÿ8¯şŠ•Â1
+L	java:S106"+Replace this use of System.out by a logger.(Ùº’¸şÿÿÿÿ8ÇÿŠ•Â1
+L	java:S106"+Replace this use of System.out by a logger.(ĞÆéÑşÿÿÿÿ8ÈÿŠ•Â1
+i
+java:S1871"LThis branch's code block is the same as the block for the branch on line 22.(ÑûÄÚ8ÈÿŠ•Â1
+i
+java:S1871"LThis branch's code block is the same as the block for the branch on line 22.(×¨şÎ8ÉÿŠ•Â1
+G	java:S106"+Replace this use of System.out by a logger.(²’¾Ñ8ÉÿŠ•Â1
+‚
+java:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(¼ş¤8ÉÿŠ•Â1
+L	java:S106"+Replace this use of System.out by a logger.(ÕŒÁ†ùÿÿÿÿ8ÊÿŠ•Â1
+ƒ
+java:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(×¨şÎ8ÊÿŠ•Â1
+L	java:S106"+Replace this use of System.out by a logger.(ÕŒÁ†ùÿÿÿÿ8ÊÿŠ•Â1
+ƒ
+java:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ÑûÄÚ8ÊÿŠ•Â1
+L	java:S106"+Replace this use of System.out by a logger.(ÕŒÁ†ùÿÿÿÿ8ËÿŠ•Â1
+L	java:S106 "+Replace this use of System.out by a logger.(Õ½ß¯ÿÿÿÿÿ8ËÿŠ•Â1
+L	java:S106&"+Replace this use of System.out by a logger.(ü‹á÷úÿÿÿÿ8ËÿŠ•Â1
+L	java:S106)"+Replace this use of System.out by a logger.(éèÍ¸üÿÿÿÿ8ÌÿŠ•Â1
